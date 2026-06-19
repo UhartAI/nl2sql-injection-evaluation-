@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Bensaoud
+    given-names: Ahmed
+    email: bensaoud@hartford.edu
+    affiliation: "University of Hartford"
+  - family-names: Sharma
+    given-names: Meenaxi
+    affiliation: "University of Hartford"
+  - family-names: Raymond
+    given-names: Scott
+    affiliation: "University of Hartford"
+  - family-names: Czarnecki
+    given-names: Conrad
+    affiliation: "University of Hartford"
+  - family-names: Campbell
+    given-names: Emily
+    affiliation: "University of Hartford"
+  - family-names: Betkar
+    given-names: YashKamlesh
+    affiliation: "University of Hartford"
+  - family-names: Gaulin
+    given-names: Cameron
+    affiliation: "University of Hartford"
+title: "NL2SQL Injection Evaluation Framework: When AI writes SQL"
+version: 1.0.0
+date-released: 2026-06-19
+doi: 10.5281/zenodo.XXXXXXX
+url: https://github.com/UhartAI/nl2sql-injection-evaluation
+repository-code: https://github.com/UhartAI/nl2sql-injection-evaluation
+keywords:
+  - SQL injection
+  - LLM security
+  - NL2SQL
+  - adversarial prompting
+  - database security
+license: MIT
+references:
+  - type: article
+    authors:
+      - family-names: Bensaoud
+        given-names: Ahmed
+      - family-names: Sharma
+        given-names: Meenaxi
+      - family-names: Raymond
+        given-names: Scott
+      - family-names: Czarnecki
+        given-names: Conrad
+      - family-names: Campbell
+        given-names: Emily
+      - family-names: Betkar
+        given-names: YashKamlesh
+      - family-names: Gaulin
+        given-names: Cameron
+    title: "When AI writes SQL: Uncovering injection vulnerabilities in LLM-generated database queries"
+    journal: "Science of Computer Programming"
+    year: 2026
